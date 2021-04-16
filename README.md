@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming and learning new things every day.
 - 🌱 I’m currently learning computer science, 2nd year student at The College of Management Academic Studies.
 - 📫 Reach me on my email : TomerMantzuri@gmail.com
+- Linkdin : Tomer Mantzuri
 
 <!---
 TomerMantzuri/TomerMantzuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
